@@ -2,7 +2,9 @@
 my first repo
 <html>
   <head>
-    <title> my repo </title>
+    <title>
+      my repo 
+    </title>
    </head>
    <body>
      <p> Hi I'm Indhu </p>
